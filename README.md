@@ -1,2 +1,2 @@
 # projects_undergrad
-undergrad software projects
+undergrad software project
